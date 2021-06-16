@@ -8,10 +8,10 @@
 const viniban = {
   code: [Javascript, HTML, CSS, Java],
   tools: [Regex, VSCode, Node, Flutter],
-  experience: {ANATEL:"1 Ano - Estagiario,
+  experience: {ANATEL:"1 Ano - Estagiario",
                Loading:"...",
               },
   
- challenge: "Working and working for one day live outside Brasil with my family!."
+ challenge: "Nonstop working so that one day i'm able to live outside Brasil alongside my family!."
 }
 ```
