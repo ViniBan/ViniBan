@@ -11,7 +11,6 @@ const viniban = {
   experience: {ANATEL:"1 Ano - Estagiario",
                Loading:"...",
               },
-  
  challenge: "Nonstop working so that one day i'm able to live outside Brasil alongside my family!."
 }
 ```
